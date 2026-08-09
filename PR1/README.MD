@@ -479,7 +479,7 @@ The screenshots included with this README are already renamed and organized unde
 
 **Video Submission Link:**
 
-> 🔗 **[PASTE YOUR VIDEO SUBMISSION LINK HERE]**
+> 🔗 **https://drive.google.com/file/d/1k48MjQ9aLKaWxpdAduNMvBJxL7FN3RYf/view?usp=sharing**
 
 ### Suggested submission format
 
