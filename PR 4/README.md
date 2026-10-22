@@ -147,11 +147,3 @@ The notebook uses a **224 × 224 RGB image** resized and scaled to the usual Tea
 - Avoid evaluating only on images used during training; use a separate, representative test set for a more reliable estimate.
 - Keep `keras_model.h5` private if it contains data or work you do not intend to publish.
 
-## 👨‍💻 Author
-
-**Your Name**  
-Add your GitHub profile link here.
-
----
-
-⭐ If you find this project useful, consider starring the repository!
