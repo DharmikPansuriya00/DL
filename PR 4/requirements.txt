@@ -1,0 +1,10 @@
+tensorflow>=2.15
+tf-keras
+numpy
+pandas
+Pillow
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
