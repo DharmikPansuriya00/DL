@@ -1,0 +1,7 @@
+text,predicted_sentiment,positive_probability
+"This film was wonderful, moving, and beautifully acted.",positive,0.9649196267127991
+A boring and terrible movie that wasted my time.,negative,0.007797119207680225
+This film is not good.,negative,0.046030573546886444
+I cannot say it was not enjoyable.,negative,0.14222252368927002
+"Brilliant, another three hours I will never get back.",negative,0.0929218977689743
+Awful.,negative,0.00010684119479265064
