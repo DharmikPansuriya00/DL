@@ -1,5 +1,8 @@
 # PR5 — Sentiment Analysis with RNN, LSTM and GRU
 
+**Dataset Link:** [Download IMDB Dataset of 50K Movie Reviews from Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
+
 An end-to-end deep learning project for classifying IMDB movie reviews as **positive** or **negative** using recurrent neural networks. This practical explores text preprocessing, sequence modeling, model training, gradient behavior, evaluation, and custom predictions.
 
 ## Contents
@@ -223,8 +226,4 @@ The following figures are included in this repository. GitHub renders them direc
 
 `Python` · `TensorFlow/Keras` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `Jupyter Notebook`
 
-## Author
 
-**Your Name**
-
-Replace this with your name and GitHub profile before publishing.
